@@ -1,0 +1,8 @@
+.env
+*.session
+.session
+.csv
+*.csv
+zip_files/
+process_files/
+
